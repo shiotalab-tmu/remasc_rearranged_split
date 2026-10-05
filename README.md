@@ -39,7 +39,7 @@ EER (%) of mch-SSL-AASIST for each split condition. Average values calculated fo
 | Partially-open | Speaker | 10.39 | 1.41 | 10.74 | 7.52 |
 | Original | Speaker | 7.6 | 10.6 | 8.3 | 8.8 |
 
-> **Note on sampling rate**: The IFIP SEC 2026 paper states that all audio was downsampled to 16 kHz. There are some mistakes in the paper. The actual conditions are as follows:
+> **Note on sampling rate**: The IFIP SEC 2026 paper states that all audio was downsampled to 16 kHz. The actual conditions are as follows:
 >
 > - Fully-closed and partially-open rows: D2 and D3 were trained and evaluated on 44.1 kHz audio, and D4 on 16 kHz audio.
 > - `Original` row: all recording devices were trained and evaluated on 16 kHz audio.
